@@ -1,3 +1,5 @@
+  ⚠️PERFIL EM CONSTRUÇÃO⚠️  
+
 - 👋 Hi, I’m @Jhenipaiva
 - 👀 Estou interessada em ingressar na área da TI, meu sonho há muitos anos.
 - 🌱 Atualmente estou aprendendo Javascript, mas já tive contato com Java, MySQL...
